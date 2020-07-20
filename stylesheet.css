@@ -16,7 +16,7 @@ body {
 	background-image: url(swastik.jpg);
     background-repeat: no-repeat;
 	background-size: 100% 100%;
-	    background-position: 0px 53px;
+	    background-position: 0px 100px;
 }
 .peach-after {
 	-webkit-animation:peach_alive linear 8s infinite;
